@@ -1,0 +1,1 @@
+Built a quiz application using Tkinter for the UI and a quiz brain to handle features like next question, answer checking, and question tracking. Integrated the OpenTDB API with the requests module to fetch questions, demonstrating basic API usage.
